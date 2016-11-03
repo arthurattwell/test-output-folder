@@ -34,4 +34,4 @@ exclude:
   - Gemfile.lock
 
 # Does gh-pages work if we change this?
-# destination: ./_html
+destination: ./_html
